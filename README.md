@@ -50,5 +50,5 @@ Simulates multi-agent consensus dynamics using Laplacian-based ODEs, with scenar
 ## Contact
 
 Email: tsiyyani@gmail.com  
-LinkedIn: [linkedin.com/in/tamanna-iyyani-29a505378](https://www.linkedin.com/in/tamanna-iyyani-29a505378/)
+Linkedin: [linkedin.com/in/tamanna-iyyani](https://www.linkedin.com/in/tamanna-iyyani/)
 
